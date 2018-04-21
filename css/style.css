@@ -1,0 +1,24 @@
+.banner-content h1 ,.text-white{
+	font-family: 'Itim', sans-serif;
+}
+.primary-btn{
+	font-family: 'Itim', sans-serif;
+	font-size: 20px
+}
+.banner-area{
+	background: url('../img/food/close-up-dinner-dish-162993.jpg') !important; 
+	width: 100%;
+	height: 800px;
+	background-size: 100% ;
+	background-repeat: no-repeat;
+
+}
+.nav-menu a{
+	font-family: 'Mitr', sans-serif;
+	font-size: 20px
+}
+.video-area{
+	background: url('../img/food/Group 1.png');
+	width: 100%;
+	background-repeat: no-repeat
+}
